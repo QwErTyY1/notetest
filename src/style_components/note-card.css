@@ -1,0 +1,23 @@
+.card {
+    border-radius: 4px;
+    /*background-color: #fff;*/
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.card .card__content {
+    background-color: #fff;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 15px;
+}
+
+.card .card__down {
+    background-color: white;
+    padding: 12px;
+    margin: 4px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+}

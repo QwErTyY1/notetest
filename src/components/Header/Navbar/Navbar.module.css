@@ -1,0 +1,26 @@
+.nav_bar {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100%;
+}
+
+.nav_bar .nav_bar__logo {
+    height: 88px;
+}
+
+.nav_bar .nav_bar__log img {
+    max-width: 100%;
+}
+
+.nav_bar .nav_bar__list {
+
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav_bar .nav_bar__item {
+}

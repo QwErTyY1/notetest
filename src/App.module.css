@@ -1,0 +1,9 @@
+.page {
+    display: flex;
+    flex-basis: 100%;
+    min-height: 100vh;
+    flex-direction: column;
+    height: 100%;
+    line-height: 27px;
+}
+

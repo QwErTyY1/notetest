@@ -1,0 +1,29 @@
+.page__main {
+    margin: 0 auto;
+    flex: 1;
+}
+
+.notes {
+
+}
+
+.notes .notes__title {
+    text-transform: uppercase;
+}
+
+.notes .notes__create {
+    background-color: white;
+    padding: 20px;
+    margin-right: 3px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+}
+
+.notes .notes__create label, .notes .notes__create input {
+    margin-right: 5px;
+}
+
+.filter-group {
+
+}
